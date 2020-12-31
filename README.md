@@ -6,12 +6,7 @@
 <hr />
 
 # Overview
-This app is the video game (kk) === "- Simple structure for real use to serve models in high risk operations, validated and built by the Drakkar do Brasil MLOps engineering team, reference in the Data / AI universe, in the Brazil and the world "-
-.
-The models === (the game cartridges).
-
-They can be developed to taste, to simulate any world in NAVIGATRON.
-Best door simulation game in the world.
+> TODO Description
 
 # Architecture Design
 
@@ -97,22 +92,9 @@ $ docker run -it --entrypoint='' navigatron-flask-app /bin/sh
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/fermaiasoares"><img src="https://avatars1.githubusercontent.com/u/8242323?s=460&u=32bf38286aae43074b5c70f3998906c7f9f96339&v=4" width="100px;" alt=""/><br /><sub><b>Fernando Maia </b></sub></a><br />
-    <small>Tech Lead Developer
-Front-End</small>
-</td>
-      <td align="center"><a href="https://github.com/LeandroRamalho"><img src="https://avatars.githubusercontent.com/u/38744016?s=460&u=dfdde0cce7b5188457e693b3438dd11a7cded2ae&v=4" width="100px;" alt=""/><br /><sub><b>Leandro Ramalho </b></sub></a><br />
-    <small>UI/UX Designer Specialist</small>
-  </td>
-  <td align="center"><a href="https://github.com/fernandozoomp"><img src="https://avatars2.githubusercontent.com/u/64983541?s=460&u=1c399b32f2a9044ef944b620d04e77f0452c9388&v=4" width="100px;" alt=""/><br /><sub><b>Fernando Cardoso </b></sub></a><br />
-    <small>Senior Back-End Developer</small>
     </td>
       <td align="center"><a href="https://github.com/henriquehsilva"><img src="https://avatars3.githubusercontent.com/u/40860601?s=460&u=a31035b210c308987ec3830019186abbab646a00&v=4" width="100px;" alt=""/><br /><sub><b>Henrique Silva </b></sub></a><br />
-    <small>Project Manager</small>
-    </td>
-    </td>
-      <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/7357119?s=460&u=21625b861afde168416b8651cec693faec2c204e&v=4" width="100px;" alt=""/><br /><sub><b>Rafael IBO </b></sub></a><br />
-    <small>AI Specialist Developer</small>
+    <small>Machine Learning Engineering</small>
     </td>
   </tr>
 </table>
@@ -122,7 +104,7 @@ Front-End</small>
 # MIT License
 [(Back to top)](#table-of-contents)
 
-Copyright (c) 2020 Drakkar Team
+Copyright (c) 2020 Henrique Silva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
